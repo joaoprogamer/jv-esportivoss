@@ -1,6 +1,12 @@
 p {
-    text-align: center ;color: rgb(245, 248, 250);
+    text-align: center ;color: rgb(245, 248, 250); 
+
+    font-size: 30px;
  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    text-shadow: 5px 5px 3px black;
+
 }
 body {
     background: #03023a;
@@ -15,3 +21,14 @@ h1 {
 
 }
 
+.text-mapa
+
+
+{
+
+    font-size: 30px;
+
+    color: white;
+
+    
+}
